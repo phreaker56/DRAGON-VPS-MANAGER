@@ -12,7 +12,7 @@
 ___Update System Packages and Install SCRIPT___
 
 ```
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/januda-ui/DRAGON-VPS-MANAGER/main/drax.sh; chmod 777 drax.sh;./drax.sh
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/phreaker56/DRAGON-VPS-MANAGER/main/drax.sh; chmod 777 drax.sh;./drax.sh
 
 ```
 
